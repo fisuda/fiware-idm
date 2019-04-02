@@ -115,7 +115,7 @@
         "content05": "あなたの新しい組織は正常に作成されました。 これはそのホームページです。",
         "content06": "これらは組織のメンバです。",
         "content07": "これらは組織が認可されているアプリケーションです。",
-        "content08": "<p>あなたは組織のツアーを終えました!KeyRockについてさらに学習するために、"ヘルプと情報"に進むことも、自分で試してみることもできます。</p><p>IdM Keyrockをご利用いただきありがとうございます!<</p><a href='/idm/help_about' class='next-tour' data-current-tour='orgsTour' id='end-tours'> > "ヘルプと情報"に進む</a>"
+        "content08": "<p>あなたは組織のツアーを終えました!KeyRockについてさらに学習するために、'ヘルプと情報'に進むことも、自分で試してみることもできます。</p><p>IdM Keyrockをご利用いただきありがとうございます!<</p><a href='/idm/help_about' class='next-tour' data-current-tour='orgsTour' id='end-tours'> > 'ヘルプと情報'に進む</a>"
       }
     }
   },
