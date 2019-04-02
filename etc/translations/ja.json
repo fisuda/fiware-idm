@@ -17,113 +17,113 @@
         "content03": "このサイドバーにはKeyRockのさまざまなセクションがあります。",
         "content04": "アプリケーションは、あなたが参加しているFIWARE技術を使った実験です(例えば、所有者または購入者として)。この表はそれらの簡単な要約を示しています。",
         "content05": "組織は基本的にユーザのグループです。アプリケーション内の複数ユーザを一度に承認したい場合に、非常に便利です。 それらの簡単な要約はこの表で見つけることができます。",
-        "content06": "<p>基本ツアーを終了しました！次のツアーに進んで自分のプロファイルの最も重要な設定についてもっと学ぶか、このチュートリアルを終了して試してみることができます。</p><p>基本ツアーを終了しました！次のツアーに進んで自分のプロファイルの最も重要な設定についてもっと学ぶか、このチュートリアルを終了して試してみることができます。</p><a href='#' class='next-tour' data-current-tour='initTour' data-next-tour='profileTour'> > プロフィール・ツアーにアクセス</a>"
+        "content06": "<p>基本ツアーを終了しました！次のツアーに進んで自分のプロフィールの最も重要な設定についてもっと学ぶか、このチュートリアルを終了して試してみることができます。</p><p>基本ツアーを終了しました！次のツアーに進んで自分のプロフィールの最も重要な設定についてもっと学ぶか、このチュートリアルを終了して試してみることができます。</p><a href='#' class='next-tour' data-current-tour='initTour' data-next-tour='profileTour'> > プロフィールのツアーに進む</a>"
       },
       "profile_tour": {
-        "title01": "Let's get started!",
-        "title02": "Your Profile",
-        "title03": "Your profile",
-        "title04": "Your organizations",
-        "title05": "Your apps",
-        "title06": "Your profile",
-        "title07": "Editing your profile",
-        "title08": "Editing your profile",
-        "title09": "You're all set!",
-        "content01": "Welcome to the Profile Tour! You will now learn how the most important settings of your profile.",
-        "content02": "Access your profile page from this menu.",
-        "content03": "This is your profile page. It contains some useful information, such as your avatar and some personal data about yourself.",
-        "content04": "This table shows the organizations you belong to.",
-        "content05": "This table shows the applications you are authorized on (i.e. you were assigned at least one role on them).",
-        "content06": "Let's include some personal information! Click this button to edit your profile.",
-        "content07": "Provide some useful information about yourself. This will appear in your profile page.",
-        "content08": "Choose your avatar now. You can choose from a previously uploaded image, upload a new one or even use your Gravatar!",
-        "content09": "<p>You finished the Profile Tour! You can now head on to the next Tour and learn more about aplications and how to register one or exit this tutorial and start experimenting yourself.</p><p>Thank you for using IdM Keyrock!</p><a href='#' class='next-tour' data-current-tour='profileTour' data-next-tour='appsTour'> > Go to Applications Tour</a>"
+        "title01": "始めましょう!",
+        "title02": "あなたのプロフィール",
+        "title03": "あなたのプロフィール",
+        "title04": "あなたの組織",
+        "title05": "あなたのアプリ",
+        "title06": "あなたのプロフィール",
+        "title07": "プロフィールを編集",
+        "title08": "プロフィールを編集",
+        "title09": "これで準備完了です!",
+        "content01": "プロフィールツアーへようこそ！これであなたのプロフィールの最も重要な設定がどのようになるのか学ぶでしょう。",
+        "content02": "のメニューからあなたのプロフィールページにアクセスします。",
+        "content03": "これはあなたのプロフィールページです。アバターや自分に関する個人データなど、役に立つ情報がいくつか含まれています。",
+        "content04": "この表はあなたが所属する組織を示しています。",
+        "content05": "この表は、あなたが許可されたアプリケーションをしめしています。つまり、あなたはそれらに対して少なくとも一つのロールを割り当てられています。",
+        "content06": "いくつかの個人情報を設定しましょう！ プロフィールを編集するには、このボタンをクリックしてください。",
+        "content07": "あなた自身に関する有用な情報をいくつか提供してください。 あなたのプロフィールページに表示されます。",
+        "content08": "今あなたのアバターを選択してください。 以前にアップロードした画像から選択するか、新しい画像をアップロードするか、Gravatarを使用することもできます!",
+        "content09": "<p>あなたはプロフィールツアーを終了しました！ 次のツアーに進んでアプリケーションとその登録方法の詳細を学ぶか、このチュートリアルを終了して自分で試してみることができます。</p><p>IdM Keyrockをご利用いただきありがとうございます!</p><a href='#' class='next-tour' data-current-tour='profileTour' data-next-tour='appsTour'> >アプリケーションツアーに進む</a>"
       },
       "apps_tour": {
-        "title01": "Let's get started!",
-        "title02": "Registering a new application",
-        "title03": "STEP 1: Registering a new application",
-        "title04": "STEP 1: Registering a new application",
-        "title05": "STEP 1: Registering a new application",
-        "title06": "STEP 1: Registering a new application",
-        "title07": "STEP 1: Registering a new application",
-        "title08": "STEP 1: Registering a new application",
-        "title09": "STEP 2: Registering a new application",
-        "title10": "STEP 2: Registering a new application",
-        "title11": "STEP 3: Registering a new application",
-        "title12": "STEP 3: Registering a new application",
-        "title13": "Check out your new application",
-        "title14": "You're all set!",
-        "content01": "Welcome to the Applications Tour! You will now learn how to register an application in KeyRock.",
-        "content02": "The quickest way to register a new application is the 'Register' button. Click on it to register your first application!",
-        "content03": "<p>This form contains the basic information required to create a new application.</p>First of all, provide a name and a longer description for your it.",
-        "content04": "This is the URL of your app. This field is required to check that requests to KeyRock regarding your app (e.g. when using OAuth to authorize users) come actually from your app.",
-        "content05": "This is the callback URL of your application. KeyRock will redirect the User Agent back to it after an OAuth authorization flow.",
-        "content06": "These are the OAuth2 Grant Types that your application will allow.",
-        "content07": "This is to select who is going be the provider of the application: yourself or one of the organizations in which you are owner.",
-        "content08": "Click on this button to continue to the next step.",
-        "content09": "In this step you can choose an image for your app. We will leave the default one.",
-        "content10": "Click on this button to continue to the next step.",
-        "content11": "In this last step, you can manage the roles and permissions of your app. We won't change anything now, but you can learn more about them in the next Tour.",
-        "content12": "Click on this button when you're done editing your new app.",
-        "content13": "This is the detail page of your new app, with some useful information about it.",
-        "content14": "<p>You finished the Applications Tour! You can now head on to the next Tour and learn more about roles and permissions inside apps and how to manage them or exit this tutorial and start experimenting yourself.</p><p>Thank you for using IdM Keyrock!</p><a href='#' class='next-tour' data-current-tour='appsTour' data-next-tour='rolesTour'> > Go to Roles & Permissions Tour</a>"
+        "title01": "始めましょう!",
+        "title02": "新しいアプリケーションを登録",
+        "title03": "STEP 1: 新しいアプリケーションを登録",
+        "title04": "STEP 1: 新しいアプリケーションを登録",
+        "title05": "STEP 1: 新しいアプリケーションを登録",
+        "title06": "STEP 1: 新しいアプリケーションを登録",
+        "title07": "STEP 1: 新しいアプリケーションを登録",
+        "title08": "STEP 1: 新しいアプリケーションを登録",
+        "title09": "STEP 2: 新しいアプリケーションを登録",
+        "title10": "STEP 2: 新しいアプリケーションを登録",
+        "title11": "STEP 3: 新しいアプリケーションを登録",
+        "title12": "STEP 3: 新しいアプリケーションを登録",
+        "title13": "新しいアプリケーションをチェックアウト",
+        "title14": "これで準備完了です!",
+        "content01": "アプリケーションツアーへようこそ！あなたはこれからKeyRockにアプリケーションを登録する方法を学びます。",
+        "content02": "新しいアプリケーションを登録する最も簡単な方法は、[登録]ボタンです。最初のアプリケーションを登録するには、それをクリックしてください!",
+        "content03": "<p>このフォームには、新しいアプリケーションを作成するために必要な基本情報が含まれています。</p>まず、あなたのアプリケーションの名前と詳細な説明を入力してください。",
+        "content04": "これはあなたのアプリのURLです。 このフィールドは、あなたのアプリに関するKeyRockへのリクエスト(たとえば、OAuthを使ってユーザを承認するとき)が実際にあなたのアプリから来ていることを確認するために必要です。",
+        "content05": "これは、アプリケーションのコールバックURLです。KeyRockはOAuthの認可フローの後にユーザエージェントをそのURLにリダイレクトします。",
+        "content06": "これらはあなたのアプリケーションが許可するOAuth2グラントタイプです。",
+        "content07": "これは誰がアプリケーションの提供者になるかを選択するためのものです:あなた自身かあなたが所有者である組織の一つです。",
+        "content08": "次のステップに進むにはこのボタンをクリックしてください。",
+        "content09": "このステップであなたはあなたのアプリのための画像を選択することができます。今はデフォルト画像のままにします。",
+        "content10": "次のステップに進むにはこのボタンをクリックしてください。",
+        "content11": "この最後のステップで、あなたはあなたのアプリのロールとパーミッションを管理することができます。今は何も変更しませんが、次のツアーでそれらについてもっと学ぶことができます。",
+        "content12": "新しいアプリの編集が終わったらこのボタンをクリックしてください。",
+        "content13": "これはあなたの新しいアプリの詳細ページで、いくつかの役に立つ情報があります。",
+        "content14": "<p>アプリケーションツアーを終了しました！ 次のツアーに進んで、アプリ内の役割とパーミッション、およびそれらを管理する方法についてさらに学ぶことができます。あるいは、このチュートリアルを終了して自分で試してみることもできます。</p><p>IdM Keyrockをご利用いただきありがとうございます!</p><a href='#' class='next-tour' data-current-tour='appsTour' data-next-tour='rolesTour'> > 役割とパーミッションのツアーに進む</a>"
       },
       "roles_tour": {
-        "title01": "Let's get started!",
-        "title02": "Pick an application",
-        "title03": "Application Detail Page",
-        "title04": "Application Detail Page",
-        "title05": "Managing Roles & Permissions",
-        "title06": "Roles",
-        "title07": "Roles",
-        "title08": "Permissions",
-        "title09": "New permission",
-        "title10": "New role",
-        "title11": "Save changes",
-        "title12": "Authorizing users",
-        "title13": "Authorizing organizations",
-        "title14": "You're all set!",
-        "content01": "Welcome to the Roles & Permissions Tour! You will now learn how roles and permissions inside applications work.",
-        "content02": "<p>To continue with the tour, click on any of your apps. If you don't have any, you should first create one or take the Applications tour.</p><a href='#' class='next-tour' data-current-tour='rolesTour' data-next-tour='appsTour'> > Go to Applications Tour</a>",
-        "content03": "Remember this is the detail page of your app. It contains some important stuff, such as the OAuth credentials, register a PEP Proxy or some IoT Sensors and manage the roles inside it.",
-        "content04": "This link will take you to the Roles Management page or this application. Click on it to continue.",
-        "content05": "This view lets you manage the roles and permissions of your application.",
-        "content06": "<p>This is the list of roles which exist inside your application (provider and purchaser are default ones).</p><p>A role is basically a set of one or more permissions. When authorizing a user in your application, one or more roles must be assigned to them.",
-        "content07": "Click on a role and the permissions attached to it will be shown on the right.",
-        "content08": "<p>This is the list of permissions which are available in your application. The checked ones are the ones attached to the role you chose.",
-        "content09": "Use this button to create a new permission for your app.",
-        "content10": "Use this button to create a new role for your app.",
-        "content11": "Click on this button to save the changes you made.",
-        "content12": "This section shows the users who have been assigned some role in your app. Use the 'Authorize' button to assign a new role to a certain user.",
-        "content13": "This section shows the organizations who have been assigned some role in your app. Use the 'Authorize' button to assign a new role to a certain organization.",
-        "content14": "<p>You finished the Roles & Permissions Tour! You can now head on to the next Tour and learn more about organizations or exit this tutorial and start experimenting yourself.</p><p>Thank you for using IdM Keyrock!</p><a href='#' class='next-tour' data-current-tour='rolesTour' data-next-tour='orgsTour'> > Go to Organizations Tour</a>"
+        "title01": "始めましょう!",
+        "title02": "アプリケーションを選ぶ",
+        "title03": "アプリケーション詳細ページ",
+        "title04": "アプリケーション詳細ページ",
+        "title05": "ロールとパーミッションの管理",
+        "title06": "ロール",
+        "title07": "ロール",
+        "title08": "パーミッション",
+        "title09": "新しいパーミッション",
+        "title10": "新しいロール",
+        "title11": "変更を保存",
+        "title12": "ユーザを認可",
+        "title13": "組織を認可",
+        "title14": "これですべて設定済みです!",
+        "content01": "ロールとパーミッションツアーへようこそ。 これで、アプリケーション内のロールとパーミッションがどのように機能するのかを学びます。",
+        "content02": "<p>ツアーを続けるには、いずれかのアプリをクリックしてください。 アプリがない場合は、作成するか、アプリケーションツアーに参加してください。</p><a href='#' class='next-tour' data-current-tour='rolesTour' data-next-tour='appsTour'> > アプリケーションツアーに進む</a>",
+        "content03": "これはあなたのアプリの詳細ページです。OAuthクレデンシャル、PEP ProxyまたはいくつかのIoTセンサの登録、およびその内部でのロールの管理などの重要な情報が含まれています。",
+        "content04": "このリンクをクリックすると、[ロール管理]ページまたはこのアプリケーションに移動します。クリックして続けます。",
+        "content05": "このビューでは、アプリケーションのロールとパーミッションを管理できます。",
+        "content06": "<p>これは、アプリケーション内に存在するロールのリストです。providerとpurchaserがデフォルトです。</p><p>ロールは基本的に1つ以上のパーミッションのセットです。アプリケーションでユーザを認可するときは、1つ以上のロールを割り当てなければなりません。",
+        "content07": "ロールをクリックすると、それに割り当てられているパーミッションが右側に表示されます。",
+        "content08": "これはあなたのアプリケーションで利用できるパーミッションのリストです。チェックされているものは、あなたが選んだロールに関連付けられているものです。",
+        "content09": "このボタンを使用して、アプリに対する新しいパーミッションを作成します。",
+        "content10": "このボタンを使用して、アプリに新しいロールを作成します。",
+        "content11": "このボタンをクリックして変更内容を保存します。",
+        "content12": "このセクションには、アプリ内で何らかのロールを割り当てられているユーザが表示されます。特定のユーザに新しいロールを割り当てるには、[認可]ボタンを使用します。",
+        "content13": "このセクションでは、アプリ内で何らかのロールを割り当てられている組織を示します。特定の組織に新しいロールを割り当てるには、[認可]ボタンを使用します。",
+        "content14": "<p>ロールとパーミッションのツアーを終了しました。次のツアーに進んで組織の詳細を学ぶことも、このチュートリアルを終了して自分で実験を始めることもできます。</p><p>IdM Keyrockをご利用いただきありがとうございます!<</p><a href='#' class='next-tour' data-current-tour='rolesTour' data-next-tour='orgsTour'> > 組織のツアーに進む</a>"
       },
       "orgs_tour": {
-        "title01": "Let's get started!",
-        "title02": "Creating a new organization",
-        "title03": "<p>Creating a new organization",
-        "title04": "Creating a new organization",
-        "title05": "Organization created!",
-        "title06": "Members",
-        "title07": "Applications",
-        "title08": "You're all set!",
-        "content01": "Welcome to the Organizations Tour! You will now learn how to create an organization in KeyRock.",
-        "content02": "The quickest way to create a new organization is the 'Create' button. Click on it to create your first organization!",
-        "content03": "<p>This form contains the basic information required to create a new organization.</p>Just provide a name and a longer description for it.",
-        "content04": "Click on this button when you're done to create your new organization.",
-        "content05": "Your new organization was successfully created. This is its home page.",
-        "content06": "These are the members of the organization.",
-        "content07": "These are the applications in which the organization is authorized.",
-        "content08": "<p>You finished the Organizations Tour! You can now head on to Help&About to learn more about KeyRock or start experimenting yourself.</p><p>Thank you for using IdM Keyrock!</p><a href='/idm/help_about' class='next-tour' data-current-tour='orgsTour' id='end-tours'> > Go to Help&About</a>"
+        "title01": "始めましょう!",
+        "title02": "新しい組織を作成",
+        "title03": "新しい組織を作成",
+        "title04": "新しい組織を作成",
+        "title05": "組織が作成されました!",
+        "title06": "メンバ",
+        "title07": "アプリケーション",
+        "title08": "これですべて設定済みです!",
+        "content01": "組織のツアーへようこそ!あなたはこれからKeyRockで組織を作成する方法を学びます。",
+        "content02": "新しい組織を作成する最も簡単な方法は、[作成]ボタンです。クリックして最初の組織を作成してください!",
+        "content03": "<p>このフォームには、新しい組織を作成するために必要な基本的な情報が含まれています。</p>組織の名前とその詳細な説明を入力するだけです。",
+        "content04": "新しい組織を作成し終わったら、このボタンをクリックしてください。",
+        "content05": "あなたの新しい組織は正常に作成されました。 これはそのホームページです。",
+        "content06": "これらは組織のメンバです。",
+        "content07": "これらは組織が認可されているアプリケーションです。",
+        "content08": "<p>あなたは組織のツアーを終えました!KeyRockについてさらに学習するために、"ヘルプと情報"に進むことも、自分で試してみることもできます。</p><p>IdM Keyrockをご利用いただきありがとうございます!<</p><a href='/idm/help_about' class='next-tour' data-current-tour='orgsTour' id='end-tours'> > "ヘルプと情報"に進む</a>"
       }
     }
   },
   "header": {
-    "menu_item01": " Profile",
-    "menu_item02": " Settings",
-    "menu_item03": " Help & About",
-    "menu_item04": " Sign Out"
+    "menu_item01": " プロフィール",
+    "menu_item02": " 設定",
+    "menu_item03": " ヘルプと情報",
+    "menu_item04": " サインアウト"
   },
   "footer": {
     "cred_date": "2018 ©",
@@ -153,27 +153,27 @@
   "navigation": {
     "menu_title01": "Main menu",
     "menu_title02": "IdM",
-    "menu_item01": "Home",
-    "menu_item02": "Organizations",
-    "menu_item03": "Applications",
+    "menu_item01": "ホーム",
+    "menu_item02": "組織",
+    "menu_item03": "アプリケーション",
     "menu_item04": "Notify",
-    "menu_item05": "Administrators",
-    "menu_item06": "Users"
+    "menu_item05": "管理者",
+    "menu_item06": "ユーザ"
   },
   "help_about": {
-    "title": "Help & About"
+    "title": "ヘルプと情報"
   },
   "auth": {
     "login": {
-      "title": "Sign In",
+      "title": "サインイン",
       "alert01": "Session expired",
       "alert02": "Password changed. Please sign in again to continue.",
       "alert03": "Invalid user name or password.",
-      "label01": "Email",
+      "label01": "Eメール",
       "label02": "Password",
       "required_field": "This is a required field.",
       "checkbox": "remember me",
-      "loginin_btn": "Sign In",
+      "loginin_btn": "サインイン",
       "link01": "Sign up",
       "link02": "Forgot password",
       "link03": "Confirmation not recieved?"
@@ -187,7 +187,7 @@
     },
     "confirmation": {
       "title": "Resend confirmation instructions",
-      "label01": "Email",
+      "label01": "Eメール",
       "required_field": "This field is required.",
       "resend_btn": "Resend confirmation instructions",
       "link01": "Sign up",
@@ -196,9 +196,9 @@
     "pass_request": {
       "title": "Forgot your password?",
       "content": "Write down the email address you associated to your account and you will receive an email with instructions about how to reset your password in a few minutes",
-      "label": "Email",
+      "label": "Eメール",
       "required_field": "This field is required.",
-      "send_btn": "Send",
+      "send_btn": "送信",
       "link01": "Sign up",
       "link02": "Didn't receive confirmation instructions?"
     },
@@ -221,12 +221,12 @@
       "continue_btn": "Continue"
     },
     "index": {
-      "page_header": "Home",
-      "title": "Applications",
+      "page_header": "ホーム",
+      "title": "アプリケーション",
       "link01": "Register",
       "alert01": "You are not authorized in any application.",
       "link02": "View All",
-      "panel_heading": "Organizations",
+      "panel_heading": "組織",
       "link03": "Create",
       "alert02": "You don't have any organizations.",
       "link04": "View All"
@@ -237,8 +237,8 @@
       "title": "Delete uploaded image",
       "content01": "Are you sure you want to delete this image?",
       "content02": "You can upload it again whenever you want.",
-      "confirm_btn": "Confirm",
-      "cancel_btn": "Cancel"
+      "confirm_btn": "確認",
+      "cancel_btn": "中止"
     },
     "exit_org": {
       "title": "Exit organization",
@@ -254,14 +254,14 @@
       "member_list_title": "Organization members",
       "alert02": "Some users don't have any role assigned. If you save now they won't be authorized in the organization",
       "alert03": "Member added",
-      "save_btn": "Save",
-      "cancel_btn": "Cancel"
+      "save_btn": "保存",
+      "cancel_btn": "中止"
     },
-    "edit": {
+    "編集": {
       "title01": "Organization Information",
       "required_field": "This input is required.",
-      "label01": "Name",
-      "label02": "Description",
+      "label01": "名前",
+      "label02": "説明",
       "label03": "Website",
       "update_btn": "Update Organization ",
       "title02": "Organization Avatar",
@@ -269,31 +269,31 @@
       "label04": "Upload an image",
       "content01": "Select the part of the image you want to use as avatar.",
       "crop_btn": "Crop and use",
-      "cancel_btn": "Cancel",
-      "title03": "Cancel",
+      "cancel_btn": "中止",
+      "title03": "中止",
       "content02": "Delete Organization",
       "content03": "This will delete the organization and all its data",
       "delete_org_btn": "Delete Organization "
     },
     "index": {
-      "title": "Organizations",
+      "title": "組織",
       "create_btn": "Create",
-      "tab01": "Owner",
-      "tab02": "Member",
+      "tab01": "オーナー",
+      "tab02": "メンバ",
       "alert01": "You are not owner of any organization.",
       "alert02": "You are not member of any organization."
     },
     "create": {
       "title": "Create Organization",
-      "label01": "Name",
+      "label01": "名前",
       "required_field": "This input is required.",
-      "label02": "Description",
+      "label02": "説明",
       "create_btn": "Create Organization"
     },
     "show": {
-      "edit_btn": "edit",
+      "edit_btn": "編集",
       "exit_btn": "exit",
-      "label01": "Description",
+      "label01": "説明",
       "label02": "Website",
       "panel_title01": "Members",
       "manage_btn": "Manage",
@@ -326,13 +326,13 @@
     "delete_user": {
       "title": "Cancel account",
       "content": "Are you sure? Cancelling your account implies the deletion of all your resources. This action is permanent.",
-      "confirm_btn": "Confirm",
-      "cancel_btn": "Cancel"
+      "confirm_btn": "確認",
+      "cancel_btn": "中止"
     },
     "change_email": {
       "title": "Change Email",
       "required_field": "This is a required field.",
-      "label01": "Email",
+      "label01": "Eメール",
       "label02": "Current email",
       "change_btn": "Change"
     },
@@ -355,8 +355,8 @@
       "title": "Delete uploaded image",
       "content01": "Are you sure you want to delete this image?",
       "content02": "You can upload it again whenever you want.",
-      "confirm_btn": "Confirm",
-      "cancel_btn": "Cancel"
+      "confirm_btn": "確認",
+      "cancel_btn": "中止"
     },
     "edit_user": {
       "title01": "Personal Information",
@@ -375,7 +375,7 @@
       "label04": "Upload an image",
       "label05": "Select the part of the image you want to use as avatar.",
       "crop_btn": "Crop and use",
-      "cancel_btn": "Cancel"
+      "cancel_btn": "中止"
     },
     "new_user": {
       "title": "Registration",
@@ -395,13 +395,13 @@
     },
     "show_user": {
       "placeholder_input": "Filter",
-      "edit_btn": "edit",
-      "title01": "Description",
+      "edit_btn": "編集",
+      "title01": "説明",
       "no_description": "No description available",
       "title02": "Website",
-      "title03": "Organizations",
+      "title03": "組織",
       "alert01": "You are not member or owner of any organizations.",
-      "title04": "Applications",
+      "title04": "アプリケーション",
       "alert02": "You are not authorized in any application."
     }
   },
@@ -411,8 +411,8 @@
       "label01": "Notify",
       "label02": "Organization ID",
       "label03": "User IDs in CSV format",
-      "label04": "Subject",
-      "label05": "Body",
+      "label04": "表題",
+      "label05": "本文",
       "option01": "Notify all users",
       "option02": "Notify an organization",
       "option03": "Notify users by user ID",
@@ -421,10 +421,10 @@
       "alert03": "Need to write some user ids",
       "alert04": "Users not found",
       "required_field": "This is a required field.",
-      "send_btn": "Send"
+      "send_btn": "送信"
     },
     "administrators": {
-      "title": "Administrators",
+      "title": "管理者",
       "panel_title": "Authorized Administrators",
       "authorize_btn": "Authorize",
       "alert01": "There are no admins"
@@ -434,8 +434,8 @@
       "subtitle01": "All Users",
       "subtitle02": "Authorized Administrators",
       "placeholder_input": "Filter",
-      "cancel_btn": "Cancel",
-      "save_btn": "Save",
+      "cancel_btn": "中止",
+      "save_btn": "保存",
       "alert01": "There are no admins",
       "alert02": "No users found.",
       "alert03": "Use the filter (type at least two characters).",
@@ -443,7 +443,7 @@
       "alert05": "User authorized as admin"
     },
     "users": {
-      "title": "Users",
+      "title": "ユーザ",
       "content01": "Show",
       "content02": "entries",
       "create_user_btn": "Create user",
@@ -459,10 +459,10 @@
       "alert02": "Email is already used.",
       "alert03": "Email is invalid.",
       "label01": "Username",
-      "label02": "Email",
+      "label02": "Eメール",
       "label03": "Password",
       "label04": "Password (again)",
-      "label05": "Description",
+      "label05": "説明",
       "label06": "Website",
       "label07": "Send an email to the user",
       "label08": "Enable",
@@ -475,19 +475,19 @@
       "title": "Delete user",
       "content01": "You are going to delete these users: ",
       "content02": "Are you sure? Deleting users implies the deletion of all their resources. This action is permanent.",
-      "confirm_input": "Confirm",
-      "cancel_btn": "Cancel"
+      "confirm_input": "確認",
+      "cancel_btn": "中止"
     },
     "edit_user": {
       "title": "Edit user",
       "alert01": "Email is already used.",
       "alert02": "Email is invalid.",
       "label01": "Username",
-      "label02": "Email",
-      "label03": "Description",
+      "label02": "Eメール",
+      "label03": "説明",
       "label04": "Website",
       "required_field": "This is a required field.",
-      "save_btn": "Save"
+      "save_btn": "保存"
     },
     "reset_password": {
       "title": "Change password",
@@ -495,17 +495,17 @@
       "label01": "Password",
       "label02": "Password (again)",
       "required_field": "This is a required field.",
-      "save_btn": "Save"
+      "save_btn": "保存"
     }
   },
   "applications": {
     "add_trusted_application": {
       "title": "Manage trusted applications",
-      "subtitle01": "Applications",
+      "subtitle01": "アプリケーション",
       "subtitle02": "Trusted applications",
       "placeholder_input": "filter",
-      "cancel_btn": "Cancel",
-      "save_btn": "Save",
+      "cancel_btn": "中止",
+      "save_btn": "保存",
       "alert01": "No applications found.",
       "alert02": "No trusted applications.",
       "alert03": "Use the filter (type at least two characters).",
@@ -517,8 +517,8 @@
       "subtitle01": "All organizations",
       "subtitle02": "Authorized Organizations",
       "placeholder_input": "filter",
-      "cancel_btn": "Cancel",
-      "save_btn": "Save",
+      "cancel_btn": "中止",
+      "save_btn": "保存",
       "alert01": "No organizations found.",
       "alert02": "There are no organizations.",
       "alert03": "Use the filter (type at least two characters).",
@@ -533,8 +533,8 @@
       "subtitle01": "All users",
       "subtitle02": "Authorized users",
       "placeholder_input": "filter",
-      "cancel_btn": "Cancel",
-      "save_btn": "Save",
+      "cancel_btn": "中止",
+      "save_btn": "保存",
       "alert01": "No users found.",
       "alert02": "There are no users.",
       "alert03": "Use the filter (type at least two characters).",
@@ -546,12 +546,12 @@
       "title": "Create permission",
       "subtitle01": "HTTP Verb and Resource Rule",
       "subtitle02": "Advanced XACML Rule",
-      "save_btn": "Save",
+      "save_btn": "保存",
       "alert01": "If you use the advanced rule you cannot set also action and resource.",
       "alert02": "You need to define both action and resource or an advanced XACML Rule.",
       "alert03": "You need to define both action and resource",
       "label01": "Permission Name",
-      "label02": "Description",
+      "label02": "説明",
       "label03": "HTTP action",
       "label04": "Resource",
       "label05": "Use XACML to define a more complex authorization policy.",
@@ -561,45 +561,45 @@
       "title": "Create role",
       "label01": "Role Name",
       "required_field": "This is a required field.",
-      "save_input": "Save"
+      "save_input": "保存"
     },
     "delete_avatar": {
       "title": "Delete uploaded image",
       "content01": "Are you sure you want to delete this image?",
       "content02": "You can upload it again whenever you want.",
-      "confirm_btn": "Confirm",
-      "cancel_btn": "Cancel"
+      "confirm_btn": "確認",
+      "cancel_btn": "中止"
     },
     "delete_permission": {
       "title": "Delete permission",
       "content01": "This will permanently delete the permission from the application and can't be undone. Are you sure you want to continue?",
-      "confirm_btn": "Confirm",
-      "cancel_btn": "Cancel"
+      "confirm_btn": "確認",
+      "cancel_btn": "中止"
     },
     "delete_role": {
       "title": "Delete role",
       "content01": "This will permanently delete the role from the application and can't be undone. Are you sure you want to continue?",
-      "confirm_btn": "Confirm",
-      "cancel_btn": "Cancel"
+      "confirm_btn": "確認",
+      "cancel_btn": "中止"
     },
-    "edit": {
+    "編集": {
       "panel_title01": "Application information",
       "panel_title02": "Application avatar",
       "panel_title03": "Remove application",
       "content01": "Upload an image",
       "content02": "Select the part of the image you want to use as avatar.",
       "content03": "This will remove the application and all its data",
-      "label01": "Name",
-      "label02": "Description",
+      "label01": "名前",
+      "label02": "説明",
       "label03": "Url",
       "label04": "Callback Url",
       "label05": "Sign-out Callback Url",
       "label06": "Grant Type",
       "required_field": "This is a required field.",
       "alert01": "Url is already used",
-      "save_btn": "Save",
+      "save_btn": "保存",
       "crop_btn": "Crop and use",
-      "cancel_btn": "Cancel",
+      "cancel_btn": "中止",
       "delete_image_btn": "Delete this image",
       "delete_app_btn": "Delete application",
       "popover01_body": "For security purposes, only OAuth requests coming from this URL will be accepted by KeyRock.",
@@ -612,7 +612,7 @@
       "popover04_title": "OAuth Grant Types"
     },
     "index": {
-      "title": "Applications",
+      "title": "アプリケーション",
       "register_btn": "Register",
       "providing_li": "Providing",
       "purchasing_li": "Purchasing",
@@ -628,12 +628,12 @@
       "subtitle02": "Permissions",
       "content01": "Select a role to see and manage its permissions",
       "required_field": "This is a required field.",
-      "save_btn": "Save"
+      "save_btn": "保存"
     },
     "new": {
       "title": "Application Information",
-      "label01": "Name",
-      "label02": "Description",
+      "label01": "名前",
+      "label02": "説明",
       "label03": "Url",
       "label04": "Callback Url",
       "label05": "Sign-out Callback Url",
@@ -654,50 +654,50 @@
       "popover05_title": "Owner application",
       "popover06_body": "Select if you also want to use eIDAS as authentication endpoint.",
       "popover06_title": "Authentication Endpoint",
-      "next_btn": "Next"
+      "next_btn": "次へ"
     },
     "show": {
-      "edit_span": "edit",
+      "edit_span": "編集",
       "manage_roles": "manage roles",
-      "label01": "Description",
+      "label01": "説明",
       "label02": "Url",
       "label03": "Callback Url",
-      "label04": "Application Id",
-      "label05": "Pep Proxy Username",
-      "label06": "Id of Sensor",
-      "label07": "Organization name",
-      "label08": "Organization NIF",
+      "label04": "アプリケーションId",
+      "label05": "Pep Proxy ユーザ名",
+      "label06": "センサのId",
+      "label07": "組織名",
+      "label08": "組織 NIF",
       "label09": "Service Provider Type",
       "label10": "Metadata URL",
-      "panel_title01": "OAuth2 Credentials",
+      "panel_title01": "OAuth2クレデンシャル",
       "panel_title02": "PEP Proxy",
-      "panel_title03": "IoT Sensors",
+      "panel_title03": "IoTセンサ",
       "panel_title04": "Trusted applications",
       "panel_title05": "Authorized users",
       "panel_title06": "Authorized organizations",
-      "panel_title07": "eIDAS Authentication",
+      "panel_title07": "eIDAS認証",
       "panel_subtitle01": "Client ID",
       "panel_subtitle02": "Client Secret",
-      "panel_subtitle03": "Token types",
+      "panel_subtitle03": "Tokenタイプ",
       "permanent_option": "Permanent",
       "popover01_body": "You will be asked for these credentials in the OAuth2 library you use for your application",
       "popover01_title": "OAuth2 Credentials",
       "popover02_body": "You can choose to create jwt as well as permanent tokens through scope parameter of OAuth2.",
-      "popover02_title": "Token Types",
+      "popover02_title": "Tokenタイプ",
       "popover03_body": "A PEP Proxy, along with an Authorization PDP, will let you add authentication and authorization security to your application. This way, you will be able also to manage specific permissions and policies to your resources, allowing different access levels to your users.",
       "popover03_title": "PEP Proxy",
       "popover04_body": "If your application is related to IoT, sensors need to be registered here for them to be authenticated.",
       "popover04_title": "IoT Sensors",
       "register_pep_btn": "Register a new PEP Proxy",
-      "reset_pep_btn": "Reset password",
-      "delete_pep_btn": "Delete",
+      "reset_pep_btn": "パスワードをリセット",
+      "delete_pep_btn": "削除",
       "register_iot_btn": "Register a new IoT Sensor",
-      "reset_iot_btn": "Reset password",
-      "delete_iot_btn": "Delete",
+      "reset_iot_btn": "パスワードをリセット",
+      "delete_iot_btn": "削除",
       "placeholder_input": "filter",
       "add_trusted_btn": "Add",
       "authorize_btn": "Authorize",
-      "edit_btn": "Edit",
+      "edit_btn": "編集",
       "content01": "This application does not have any trusted application.",
       "content02": "No users found.",
       "content03": "This application does not have any authorized organizations."
@@ -705,7 +705,7 @@
     "step_create_avatar": {
       "title": "Application Avatar",
       "content01": "Select the part of the image you want to use as avatar.",
-      "next_btn": "Next"
+      "next_btn": "次へ"
     },
     "step_create_roles": {
       "title": "Manage Roles",
@@ -719,22 +719,22 @@
   "templates": {
     "admin": {
       "user_row": {
-        "edit_option": "Edit",
+        "edit_option": "編集",
         "reset_option": "Change password"
       }
     },
     "applications": {
       "iot_row": {
-        "label01": "Id of Sensor",
-        "label02": "Password of Sensor",
-        "reset_iot_btn": "Reset password",
-        "delete_iot_btn": "Delete"
+        "label01": "SensorのID",
+        "label02": "Sensor のパスワード",
+        "reset_iot_btn": "パスワードをリセット",
+        "delete_iot_btn": "削除"
       },
       "pep_proxy_row": {
-        "label01": "Pep Proxy Username",
-        "label02": "Pep Proxy Password",
-        "reset_pep_btn": "Reset password",
-        "delete_pep_btn": "Delete"
+        "label01": "Pep Proxy ユーザ名",
+        "label02": "Pep Proxy パスワード",
+        "reset_pep_btn": "パスワードをリセット",
+        "delete_pep_btn": "削除"
       }
     },
     "email": {
@@ -742,27 +742,27 @@
         "content01": "Technical University of Madrid (UPM)"
       },
       "activate": {
-        "subject": "Welcome to Keyrock",
-        "content01": "Hello",
+        "subject": "Keyrockへようこそ",
+        "content01": "こんにちは",
         "content02": "Welcome to Keyrock! By clicking on the link 'I accept' below, you state that you have read and accepted the our Terms and Conditions and the creation of your account will be confirmed:",
         "content03": "I accept"
       },
       "change_email": {
         "subject": "Account email change requested",
-        "content01": "Hello",
+        "content01": "こんにちは",
         "content02": "You have requested to change your email account to this one. Follow the link to finish the process.",
         "content03": "Verify account"
       },
       "forgot_password": {
         "subject": "Reset password instructions",
-        "content01": "Hello",
+        "content01": "こんにちは",
         "content02": "Someone has requested a link to change your password. You can do this through the link below.",
         "content03": "Change my password",
         "content04": "If you didn't request this, please ignore this email.",
         "content05": "Your password won't change until you access the link above and create a new one."
       },
       "user_info": {
-        "subject": "Welcome to Keyrock",
+        "subject": "Keyrockへようこそ",
         "content01": "Welcome to Keyrock! An account has been created on keyrock with the following credentials: ",
         "content02": "Email:",
         "content03": "Password:",
@@ -772,27 +772,27 @@
     },
     "organizations": {
       "assign_role_organization_row" :{
-        "li01": "Owner",
-        "li02": "Member"
+        "li01": "オーナー",
+        "li02": "メンバ"
       }
     }, 
     "users": {
       "org_role_user_row" :{
-        "li01": "Owner",
-        "li02": "Member"
+        "li01": "オーナー",
+        "li02": "メンバ"
       }
     }
   },
   "oauth": {
     "login": {
-      "title": "Sign In",
+      "title": "サインイン",
       "alert01": "Session expired",
       "alert02": "Invalid username or password.",
-      "label01": "Email",
+      "label01": "Eメール",
       "label02": "Password",
       "required_field": "This is a required field.",
       "checkbox": "remember me",
-      "loginin_btn": "Sign In",
+      "loginin_btn": "サインイン",
       "eidas_loginin_btn": "Sign eID",
       "link01": "Sign up",
       "link02": "Forgot password",
@@ -811,7 +811,7 @@
   "modal": {
     "select": "Select your country",
     "next": "Next step",
-    "close": "Close"
+    "close": "閉じる"
   },
 
   "countries": {
@@ -824,24 +824,24 @@
 
   "saml2": {
     "label01": "Support Contact Person",
-    "label02": "Name",
+    "label02": "名前",
     "label03": "Surname",
-    "label04": "Email",
-    "label05": "Telephone Number",
-    "label06": "Company",
+    "label04": "Eメール",
+    "label05": "電話番号",
+    "label06": "会社",
     "label07": "Technical Contact Person",
-    "label08": "Name",
+    "label08": "名前",
     "label09": "Surname",
-    "label10": "Email",
-    "label11": "Telephone Number",
-    "label12": "Company",
-    "label13": "Organization",
-    "label14": "Name",
+    "label10": "Eメール",
+    "label11": "電話番号",
+    "label12": "会社",
+    "label13": "組織",
+    "label14": "名前",
     "label15": "Url",
     "label16": "NIF",
     "label17": "Service Provider Type",
-    "private_option": "private",
-    "public_option": "public",
+    "private_option": "プライベート",
+    "public_option": "パブリック",
     "required_field": "This is a required field.",
     "alert01": "Invalid SP Type",
     "edit_eidas": {
@@ -868,29 +868,29 @@
       "legal_label08": "EORI",
       "legal_label09": "SEED",
       "legal_label10": "SIC",
-      "representative_label01": "Person Identifier",
-      "representative_label02": "Family Name",
-      "representative_label03": "First Name",
-      "representative_label04": "Date of Birth",
-      "representative_label05": "Birth Name",
-      "representative_label06": "Place Of Birth",
-      "representative_label07": "Current Address",
-      "representative_label08": "Gender",
-      "representative_label09": "Legal Person Identifier",
-      "representative_label10": "Legal Name",
-      "representative_label11": "Legal Person Address",
-      "representative_label12": "VAT Registration Number",
-      "representative_label13": "Tax Reference",
+      "representative_label01": "人の識別子",
+      "representative_label02": "ファミリーネーム",
+      "representative_label03": "ファーストネーム",
+      "representative_label04": "生年月日",
+      "representative_label05": "出生名",
+      "representative_label06": "出生地",
+      "representative_label07": "現在の住所",
+      "representative_label08": "性別",
+      "representative_label09": "法人識別番号",
+      "representative_label10": "法人名",
+      "representative_label11": "法人の住所",
+      "representative_label12": "VAT登録番号",
+      "representative_label13": "課税情報",
       "representative_label14": "D-2012-17-EUIdentifier",
       "representative_label15": "LEI",
       "representative_label16": "EORI",
       "representative_label17": "SEED",
       "representative_label18": "SIC",
-      "update_btn": "Update"
+      "update_btn": "更新"
     },
     "step_create_eidas_credentials": {
       "title": "eIDAS Authentication Details", 
-      "next_btn": "Next"
+      "next_btn": "次へ"
     }
   }
 }
