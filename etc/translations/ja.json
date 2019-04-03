@@ -179,133 +179,133 @@
       "link03": "確認を受け取っていませんか?"
     },
     "presentation": {
-      "title": "Identity Manager",
-      "subtitle01": "Welcome to an implementation of FIWARE Identity Manager developed by DIT-UPM.",
-      "subtitle02": "You can customize this sign in page as well as any other style/layout in this web service. Check customization documentation to learn how to do it!",
+      "title": "ID管理",
+      "subtitle01": "DIT-UPMによって開発されたFIWARE Identity Managerの実装へようこそ。",
+      "subtitle02": "このWebサービスでは、このサインインページや他のスタイル/レイアウトをカスタマイズできます。カスタマイズ方法を確認するには、カスタマイズに関するドキュメントをチェックしてください。",
       "signup_btn": "サインアップ",
-      "docs_btn": "Check documentation"
+      "docs_btn": "ドキュメントの確認"
     },
     "confirmation": {
-      "title": "Resend confirmation instructions",
+      "title": "確認指示を再送信",
       "label01": "Eメール",
-      "required_field": "This field is required.",
-      "resend_btn": "Resend confirmation instructions",
+      "required_field": "このフィールドは必須です。",
+      "resend_btn": "確認指示を再送信",
       "link01": "サインアップ",
       "link02": "パスワードを忘れた"
     },
     "pass_request": {
-      "title": "Forgot your password?",
-      "content": "Write down the email address you associated to your account and you will receive an email with instructions about how to reset your password in a few minutes",
+      "title": "パスワードを忘れましたか?",
+      "content": "アカウントに関連付けたメールアドレスを入力すると、数分でパスワードをリセットする方法についての説明が記載されたメールが届きます。",
       "label": "Eメール",
-      "required_field": "This field is required.",
+      "required_field": "このフィールドは必須です。",
       "send_btn": "送信",
       "link01": "サインアップ",
-      "link02": "Didn't receive confirmation instructions?"
+      "link02": "確認指示を受けませんでしたか?"
     },
     "pass_reset": {
-      "title": "Change your password",
-      "alert": "New password and confirm password not match.",
-      "required_field": "This field is required.",
+      "title": "パスワード変更",
+      "alert": "新しいパスワードと確認パスワードが不一致です。",
+      "required_field": "このフィールドは必須です。",
       "label01": "パスワード",
-      "label02": "Password (again)",
-      "change_btn": "Change my password",
+      "label02": "パスワード(再度)",
+      "change_btn": "パスワード変更",
       "link01": "サインアップ",
-      "link02": "Didn't receive confirmation instructions?"
+      "link02": "確認指示を受けませんでしたか?"
     }
   },
   "home": {
     "change_pass": {
-      "title": "Change password",
-      "content01": "It's been a year since you changed the password.",
-      "content02": "To continue using this portal, please change it.",
-      "continue_btn": "Continue"
+      "title": "パスワード変更",
+      "content01": "パスワードを変更してから1年が経ちました。",
+      "content02": "このポータルの使用を続けるには変更してください。",
+      "continue_btn": "続行"
     },
     "index": {
       "page_header": "ホーム",
       "title": "アプリケーション",
-      "link01": "Register",
-      "alert01": "You are not authorized in any application.",
-      "link02": "View All",
+      "link01": "登録",
+      "alert01": "あなたはどのアプリケーションでも認可されていません。",
+      "link02": "全て見る",
       "panel_heading": "組織",
-      "link03": "Create",
-      "alert02": "You don't have any organizations.",
-      "link04": "View All"
+      "link03": "作成",
+      "alert02": "組織がありません。",
+      "link04": "全て見る"
     }
   },
   "organizations": {
     "delete_avatar": {
-      "title": "Delete uploaded image",
-      "content01": "Are you sure you want to delete this image?",
-      "content02": "You can upload it again whenever you want.",
+      "title": "ップロードした画像を削除",
+      "content01": "この画像を削除してもよろしいですか?",
+      "content02": "いつでも好きなときにアップロードできます。",
       "confirm_btn": "確認",
       "cancel_btn": "中止"
     },
     "exit_org": {
-      "title": "Exit organization",
-      "content": "Are you sure you want to exit this organization?",
-      "exit_btn": "Exit"
+      "title": "組織を脱退",
+      "content": "本当にこの組織から脱退しますか?",
+      "exit_btn": "脱退"
     },
     "manage_members": {
-      "title": "Manage your organization members",
-      "header_title": "All users",
-      "no_users": "No users found.",
-      "filter_use": "Use the filter (type at least two characters).",
-      "alert01": "Invalid characters",
-      "member_list_title": "Organization members",
-      "alert02": "Some users don't have any role assigned. If you save now they won't be authorized in the organization",
-      "alert03": "Member added",
+      "title": "なたの組織のメンバーを管理",
+      "header_title": "すべてのユーザ",
+      "no_users": "ユーザが見つかりません。",
+      "filter_use": "フィルタを使用します。最低2文字入力してください。",
+      "alert01": "無効な文字",
+      "member_list_title": "組織のメンバ",
+      "alert02": "何人かのユーザには何のロールも割り当てられていません。今保存すると彼らは組織内で認可されません",
+      "alert03": "メンバが追加されました",
       "save_btn": "保存",
       "cancel_btn": "中止"
     },
     "編集": {
-      "title01": "Organization Information",
-      "required_field": "This input is required.",
+      "title01": "組織情報",
+      "required_field": "この入力は必須です。",
       "label01": "名前",
       "label02": "説明",
       "label03": "Webサイト",
-      "update_btn": "Update Organization ",
-      "title02": "Organization Avatar",
-      "delete_btn": "Delete this image",
-      "label04": "Upload an image",
-      "content01": "Select the part of the image you want to use as avatar.",
-      "crop_btn": "Crop and use",
+      "update_btn": "組織の更新",
+      "title02": "組織のアバター",
+      "delete_btn": "この画像を削除",
+      "label04": "画像をアップロード",
+      "content01": "アバターとして使用したい画像の部分を選択してください。",
+      "crop_btn": "トリミングして使用",
       "cancel_btn": "中止",
       "title03": "中止",
-      "content02": "Delete Organization",
-      "content03": "This will delete the organization and all its data",
-      "delete_org_btn": "Delete Organization "
+      "content02": "組織を削除します",
+      "content03": "これにより組織とそのすべてのデータが削除されます。",
+      "delete_org_btn": "組織を削除"
     },
     "index": {
       "title": "組織",
-      "create_btn": "Create",
+      "create_btn": "作成",
       "tab01": "オーナー",
       "tab02": "メンバ",
-      "alert01": "You are not owner of any organization.",
-      "alert02": "You are not member of any organization."
+      "alert01": "あなたはどの組織の所有者でもありません。",
+      "alert02": "あなたはどの組織のメンバでもありません。"
     },
     "create": {
-      "title": "Create Organization",
+      "title": "組織を作成",
       "label01": "名前",
-      "required_field": "This input is required.",
+      "required_field": "必須フィールドです",
       "label02": "説明",
-      "create_btn": "Create Organization"
+      "create_btn": "組織を作成"
     },
     "show": {
       "edit_btn": "編集",
-      "exit_btn": "exit",
+      "exit_btn": "終了",
       "label01": "説明",
       "label02": "Webサイト",
-      "panel_title01": "Members",
-      "manage_btn": "Manage",
-      "no_members": "No members found.",
-      "panel_title02": "Authorized Applications",
-      "no_apps": "No applications found."
+      "panel_title01": "メンバ",
+      "manage_btn": "管理",
+      "no_members": "メンバが見つかりませんでした。",
+      "panel_title02": "認可アプリケーション",
+      "no_apps": "アプリケーションが見つかりません。"
     }
   },
   "settings": {
     "settings": {
       "title": "Settings",
-      "panel_title01": "Change your password",
+      "panel_title01": "パスワード変更",
       "label01": "Current password",
       "label02": "New password",
       "label03": "Confirm new password",
@@ -331,21 +331,21 @@
     },
     "change_email": {
       "title": "Change Email",
-      "required_field": "This is a required field.",
+      "required_field": "これは必須フィールドです。",
       "label01": "Eメール",
       "label02": "Current email",
       "change_btn": "Change"
     },
     "change_pass": {
       "title": "Change Password",
-      "required_field": "This is a required field.",
+      "required_field": "これは必須フィールドです。",
       "pass_alert": "New password and confirm password not match.",
       "label01": "Current password",
       "label02": "New password",
       "label03": "Confirm new password"
     },
     "warn_change_pass": {
-      "title": "Change password",
+      "title": "パスワード変更",
       "content": "It's been a year since you changed the password. For security reasons and to continue using this portal, please change it.",
       "continue_btn": "Continue"
     }
@@ -361,7 +361,7 @@
     "edit_user": {
       "title01": "Personal Information",
       "label01": "ユーザ名",
-      "required_field": "This input is required.",
+      "required_field": "この入力は必須です。",
       "label02": "About Me",
       "label03": "Webサイト",
       "update_btn": "Update User ",
@@ -381,20 +381,20 @@
       "title": "Registration",
       "alert01": "The two password fields didn't match",
       "alert02": "Email is already used",
-      "alert03": "Email is invalid",
+      "alert03": "Eメールが無効です,
       "label01": "ユーザ名",
-      "required_field": "This is a required field",
+      "required_field": "これは必須フィールドです。,
       "label02": "E-mail",
       "content01": "I have Gravatar and want to use it for my avatar.",
       "label03": "パスワード",
-      "label04": "Password (again)",
+      "label04": "パスワード(再度)",
       "label05": "Captcha",
       "signup_btn": "Sign Up",
       "link01": "パスワードを忘れた",
       "link02": "Confirmation not recieved?"
     },
     "show_user": {
-      "placeholder_input": "Filter",
+      "placeholder_input": "フィルタ",
       "edit_btn": "編集",
       "title01": "説明",
       "no_description": "No description available",
@@ -420,7 +420,7 @@
       "alert02": "Organization not found",
       "alert03": "Need to write some user ids",
       "alert04": "Users not found",
-      "required_field": "This is a required field.",
+      "required_field": "これは必須フィールドです。",
       "send_btn": "送信"
     },
     "administrators": {
@@ -433,46 +433,46 @@
       "title": "Manage Administrators",
       "subtitle01": "All Users",
       "subtitle02": "Authorized Administrators",
-      "placeholder_input": "Filter",
+      "placeholder_input": "フィルタ",
       "cancel_btn": "中止",
       "save_btn": "保存",
       "alert01": "There are no admins",
-      "alert02": "No users found.",
-      "alert03": "Use the filter (type at least two characters).",
-      "alert04": "Invalid characters",
+      "alert02": "ユーザが見つかりません。",
+      "alert03": "フィルタを使用します。最低2文字入力してください。",
+      "alert04": "無効な文字",
       "alert05": "User authorized as admin"
     },
     "users": {
       "title": "ユーザ",
       "content01": "Show",
       "content02": "entries",
-      "create_user_btn": "Create user",
-      "delete_user_btn": "Delete user",
+      "create_user_btn": "ユーザを作成",
+      "delete_user_btn": "ユーザを削除",
       "username_col_table": "ユーザ名",
       "enable_col_table": "Enable",
       "actions_col_table": "Actions",
-      "alert01": "No users found."
+      "alert01": "ユーザが見つかりません。"
     },
     "create_user": {
-      "title": "Create user",
+      "title": "ユーザを作成",
       "alert01": "The two password fields didn't match.",
-      "alert02": "Email is already used.",
-      "alert03": "Email is invalid.",
+      "alert02": "Eメールは既に使われています。",
+      "alert03": "Eメールが無効です",
       "label01": "ユーザ名",
       "label02": "Eメール",
       "label03": "パスワード",
-      "label04": "Password (again)",
+      "label04": "パスワード(再度)",
       "label05": "説明",
       "label06": "Webサイト",
       "label07": "Send an email to the user",
       "label08": "Enable",
       "popover_title": "Send Email",
       "popover_body": "This will send an email to the user including the assigned password.",
-      "required_field": "This is a required field.",
-      "create_btn": "Create"
+      "required_field": "これは必須フィールドです。",
+      "create_btn": "作成"
     },
     "delete_user": {
-      "title": "Delete user",
+      "title": "ユーザを削除",
       "content01": "You are going to delete these users: ",
       "content02": "Are you sure? Deleting users implies the deletion of all their resources. This action is permanent.",
       "confirm_input": "確認",
@@ -480,21 +480,21 @@
     },
     "edit_user": {
       "title": "Edit user",
-      "alert01": "Email is already used.",
-      "alert02": "Email is invalid.",
+      "alert01": "Eメールは既に使われています。",
+      "alert02": "Eメールが無効です。",
       "label01": "ユーザ名",
       "label02": "Eメール",
       "label03": "説明",
       "label04": "Webサイト",
-      "required_field": "This is a required field.",
+      "required_field": "これは必須フィールドです。",
       "save_btn": "保存"
     },
     "reset_password": {
-      "title": "Change password",
+      "title": "パスワード変更",
       "alert01": "The two password fields didn't match.",
       "label01": "パスワード",
-      "label02": "Password (again)",
-      "required_field": "This is a required field.",
+      "label02": "パスワード(再度)",
+      "required_field": "これは必須フィールドです。",
       "save_btn": "保存"
     }
   },
@@ -503,43 +503,43 @@
       "title": "Manage trusted applications",
       "subtitle01": "アプリケーション",
       "subtitle02": "Trusted applications",
-      "placeholder_input": "filter",
+      "placeholder_input": フィルタ,
       "cancel_btn": "中止",
       "save_btn": "保存",
       "alert01": "No applications found.",
       "alert02": "No trusted applications.",
-      "alert03": "Use the filter (type at least two characters).",
-      "alert04": "Invalid characters",
+      "alert03": "フィルタを使用します。最低2文字入力してください。",
+      "alert04": "無効な文字",
       "alert05": "Trusted application added"
     },
     "authorize_organization": {
       "title": "Authorize organizations in your application",
       "subtitle01": "All organizations",
       "subtitle02": "Authorized Organizations",
-      "placeholder_input": "filter",
+      "placeholder_input": フィルタ,
       "cancel_btn": "中止",
       "save_btn": "保存",
       "alert01": "No organizations found.",
       "alert02": "There are no organizations.",
-      "alert03": "Use the filter (type at least two characters).",
+      "alert03": "フィルタを使用します。最低2文字入力してください。",
       "alert04": "Some organizations don't have any role assigned. If you save now they won't be authorized in the application",
-      "alert05": "Invalid characters",
+      "alert05": "無効な文字",
       "alert06": "Organization added",
       "popover_title": "Role assignment",
       "popover_body": "You can assign differents roles to members or owners of an organization"
     },
     "authorize_user": {
       "title": "Authorize users in your application",
-      "subtitle01": "All users",
+      "subtitle01": "すべてのユーザ",
       "subtitle02": "認可されたユーザ",
-      "placeholder_input": "filter",
+      "placeholder_input": フィルタ,
       "cancel_btn": "中止",
       "save_btn": "保存",
-      "alert01": "No users found.",
+      "alert01": "ユーザが見つかりません。",
       "alert02": "There are no users.",
-      "alert03": "Use the filter (type at least two characters).",
+      "alert03": "フィルタを使用します。最低2文字入力してください。",
       "alert04": "Some users don't have any role assigned. If you save now they won't be authorized in the application",
-      "alert05": "Invalid characters",
+      "alert05": "無効な文字",
       "alert06": "User added"
     },
     "create_permission": {
@@ -555,12 +555,12 @@
       "label03": "HTTP action",
       "label04": "Resource",
       "label05": "Use XACML to define a more complex authorization policy.",
-      "required_field": "This is a required field."
+      "required_field": "これは必須フィールドです。"
     },
     "create_role": {
       "title": "ロール作成",
       "label01": "ロール名",
-      "required_field": "This is a required field.",
+      "required_field": "これは必須フィールドです。",
       "save_input": "保存"
     },
     "delete_avatar": {
@@ -595,7 +595,7 @@
       "label04": "Callback Url",
       "label05": "Sign-out Callback Url",
       "label06": "グラントタイプ",
-      "required_field": "This is a required field.",
+      "required_field": "これは必須フィールドです。",
       "alert01": "Url is already used",
       "save_btn": "保存",
       "crop_btn": "Crop and use",
@@ -613,7 +613,7 @@
     },
     "index": {
       "title": "アプリケーション",
-      "register_btn": "Register",
+      "register_btn": "登録",
       "providing_li": "Providing",
       "purchasing_li": "Purchasing",
       "authorized_li": "Authorized",
@@ -627,7 +627,7 @@
       "subtitle01": "ロール",
       "subtitle02": "パーミッション",
       "content01": "Select a role to see and manage its permissions",
-      "required_field": "This is a required field.",
+      "required_field": "これは必須フィールドです。",
       "save_btn": "保存"
     },
     "new": {
@@ -640,7 +640,7 @@
       "label06": "グラントタイプ",
       "label07": "Provider",
       "label08": "eIDAS Authentication",
-      "required_field": "This is a required field.",
+      "required_field": "これは必須フィールドです。",
       "alert01": "Url is already used",
       "popover01_body": "For security purposes, only OAuth requests coming from this URL will be accepted by KeyRock.",
       "popover01_title": "Application URL",
@@ -694,12 +694,12 @@
       "register_iot_btn": "Register a new IoT Sensor",
       "reset_iot_btn": "パスワードをリセット",
       "delete_iot_btn": "削除",
-      "placeholder_input": "filter",
+      "placeholder_input": フィルタ,
       "add_trusted_btn": "Add",
       "authorize_btn": "Authorize",
       "edit_btn": "編集",
       "content01": "This application does not have any trusted application.",
-      "content02": "No users found.",
+      "content02": "ユーザが見つかりません。",
       "content03": "This application does not have any authorized organizations."
     },
     "step_create_avatar": {
@@ -712,7 +712,7 @@
       "subtitle01": "ロール",
       "subtitle02": "パーミッション",
       "content01": "Select a role to see and manage its permissions",
-      "required_field": "This is a required field.",
+      "required_field": "これは必須フィールドです。",
       "finish_btn": "Finish"
     }
   },
@@ -720,7 +720,7 @@
     "admin": {
       "user_row": {
         "edit_option": "編集",
-        "reset_option": "Change password"
+        "reset_option": "パスワード変更"
       }
     },
     "applications": {
@@ -790,7 +790,7 @@
       "alert02": "Invalid username or password.",
       "label01": "Eメール",
       "label02": "パスワード",
-      "required_field": "This is a required field.",
+      "required_field": "これは必須フィールドです。",
       "checkbox": "remember me",
       "loginin_btn": "サインイン",
       "eidas_loginin_btn": "Sign eID",
@@ -842,7 +842,7 @@
     "label17": "Service Provider Type",
     "private_option": "プライベート",
     "public_option": "パブリック",
-    "required_field": "This is a required field.",
+    "required_field": "これは必須フィールドです。",
     "alert01": "Invalid SP Type",
     "edit_eidas": {
       "title01": "eIDAS Authentication Details",
