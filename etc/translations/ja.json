@@ -15,9 +15,9 @@
         "content01": "FIWAREのKeyRock Identity Managerへようこそ。これは概要を案内する基本的なツアーです。",
         "content02": "あなたのプロフィール、設定、そしてログアウトにアクセスするためにこのセクションを使用してください。",
         "content03": "このサイドバーにはKeyRockのさまざまなセクションがあります。",
-        "content04": "アプリケーションは、あなたが参加しているFIWARE技術を使った実験です(例えば、所有者または購入者として)。この表はそれらの簡単な要約を示しています。",
+        "content04": "アプリケーションは、あなたが参加しているFIWARE技術を使った実験です(例えば、オーナーまたはPurchaserとして)。この表はそれらの簡単な要約を示しています。",
         "content05": "組織は基本的にユーザのグループです。アプリケーション内の複数ユーザを一度に承認したい場合に、非常に便利です。 それらの簡単な要約はこの表で見つけることができます。",
-        "content06": "<p>基本ツアーを終了しました！次のツアーに進んで自分のプロフィールの最も重要な設定についてもっと学ぶか、このチュートリアルを終了して試してみることができます。</p><p>基本ツアーを終了しました！次のツアーに進んで自分のプロフィールの最も重要な設定についてもっと学ぶか、このチュートリアルを終了して試してみることができます。</p><a href='#' class='next-tour' data-current-tour='initTour' data-next-tour='profileTour'> > プロフィールのツアーに進む</a>"
+        "content06": "<p>基本ツアーを終了しました! 次のツアーに進んで自分のプロフィールの最も重要な設定についてもっと学ぶか、このチュートリアルを終了して試してみることができます。</p><p>基本ツアーを終了しました！次のツアーに進んで自分のプロフィールの最も重要な設定についてもっと学ぶか、このチュートリアルを終了して試してみることができます。</p><a href='#' class='next-tour' data-current-tour='initTour' data-next-tour='profileTour'> > プロフィールのツアーに進む</a>"
       },
       "profile_tour": {
         "title01": "始めましょう!",
@@ -29,15 +29,15 @@
         "title07": "プロフィールを編集",
         "title08": "プロフィールを編集",
         "title09": "これで準備完了です!",
-        "content01": "プロフィールツアーへようこそ！これであなたのプロフィールの最も重要な設定がどのようになるのか学ぶでしょう。",
-        "content02": "のメニューからあなたのプロフィールページにアクセスします。",
-        "content03": "これはあなたのプロフィールページです。アバターや自分に関する個人データなど、役に立つ情報がいくつか含まれています。",
+        "content01": "プロフィール・ツアーへようこそ! これであなたのプロフィールの最も重要な設定がどのようになるのか学ぶでしょう。",
+        "content02": "のメニューからあなたのプロフィール・ページにアクセスします。",
+        "content03": "これはあなたのプロフィール・ページです。アバターや自分に関する個人データなど、役に立つ情報がいくつか含まれています。",
         "content04": "この表はあなたが所属する組織を示しています。",
         "content05": "この表は、あなたが許可されたアプリケーションをしめしています。つまり、あなたはそれらに対して少なくとも一つのロールを割り当てられています。",
-        "content06": "いくつかの個人情報を設定しましょう！ プロフィールを編集するには、このボタンをクリックしてください。",
-        "content07": "あなた自身に関する有用な情報をいくつか提供してください。 あなたのプロフィールページに表示されます。",
+        "content06": "いくつかの個人情報を設定しましょう!  プロフィールを編集するには、このボタンをクリックしてください。",
+        "content07": "あなた自身に関する有用な情報をいくつか提供してください。 あなたのプロフィール・ページに表示されます。",
         "content08": "今あなたのアバターを選択してください。 以前にアップロードした画像から選択するか、新しい画像をアップロードするか、Gravatarを使用することもできます!",
-        "content09": "<p>あなたはプロフィールツアーを終了しました！ 次のツアーに進んでアプリケーションとその登録方法の詳細を学ぶか、このチュートリアルを終了して自分で試してみることができます。</p><p>IdM Keyrockをご利用いただきありがとうございます!</p><a href='#' class='next-tour' data-current-tour='profileTour' data-next-tour='appsTour'> >アプリケーションツアーに進む</a>"
+        "content09": "<p>あなたはプロフィールツアーを終了しました!  次のツアーに進んでアプリケーションとその登録方法の詳細を学ぶか、このチュートリアルを終了して自分で試してみることができます。</p><p>IdM Keyrockをご利用いただきありがとうございます!</p><a href='#' class='next-tour' data-current-tour='profileTour' data-next-tour='appsTour'> >アプリケーション・ツアーに進む</a>"
       },
       "apps_tour": {
         "title01": "始めましょう!",
@@ -54,20 +54,20 @@
         "title12": "STEP 3: 新しいアプリケーションを登録",
         "title13": "新しいアプリケーションをチェックアウト",
         "title14": "これで準備完了です!",
-        "content01": "アプリケーションツアーへようこそ！あなたはこれからKeyRockにアプリケーションを登録する方法を学びます。",
+        "content01": "アプリケーション・ツアーへようこそ! あなたはこれからKeyRockにアプリケーションを登録する方法を学びます。",
         "content02": "新しいアプリケーションを登録する最も簡単な方法は、[登録]ボタンです。最初のアプリケーションを登録するには、それをクリックしてください!",
         "content03": "<p>このフォームには、新しいアプリケーションを作成するために必要な基本情報が含まれています。</p>まず、あなたのアプリケーションの名前と詳細な説明を入力してください。",
         "content04": "これはあなたのアプリのURLです。 このフィールドは、あなたのアプリに関するKeyRockへのリクエスト(たとえば、OAuthを使ってユーザを承認するとき)が実際にあなたのアプリから来ていることを確認するために必要です。",
-        "content05": "これは、アプリケーションのコールバックURLです。KeyRockはOAuthの認可フローの後にユーザエージェントをそのURLにリダイレクトします。",
-        "content06": "これらはあなたのアプリケーションが許可するOAuth2グラントタイプです。",
-        "content07": "これは誰がアプリケーションの提供者になるかを選択するためのものです:あなた自身かあなたが所有者である組織の一つです。",
+        "content05": "これは、アプリケーションのコールバックURLです。KeyRockはOAuthの認可フローの後にユーザ・エージェントをそのURLにリダイレクトします。",
+        "content06": "これらはあなたのアプリケーションが許可するOAuth2グラント・タイプです。",
+        "content07": "これは誰がアプリケーションのProviderになるかを選択するためのものです:あなた自身かあなたがオーナーである組織の一つです。",
         "content08": "次のステップに進むにはこのボタンをクリックしてください。",
         "content09": "このステップであなたはあなたのアプリのための画像を選択することができます。今はデフォルト画像のままにします。",
         "content10": "次のステップに進むにはこのボタンをクリックしてください。",
         "content11": "この最後のステップで、あなたはあなたのアプリのロールとパーミッションを管理することができます。今は何も変更しませんが、次のツアーでそれらについてもっと学ぶことができます。",
         "content12": "新しいアプリの編集が終わったらこのボタンをクリックしてください。",
         "content13": "これはあなたの新しいアプリの詳細ページで、いくつかの役に立つ情報があります。",
-        "content14": "<p>アプリケーションツアーを終了しました！ 次のツアーに進んで、アプリ内の役割とパーミッション、およびそれらを管理する方法についてさらに学ぶことができます。あるいは、このチュートリアルを終了して自分で試してみることもできます。</p><p>IdM Keyrockをご利用いただきありがとうございます!</p><a href='#' class='next-tour' data-current-tour='appsTour' data-next-tour='rolesTour'> > 役割とパーミッションのツアーに進む</a>"
+        "content14": "<p>アプリケーションツアーを終了しました!  次のツアーに進んで、アプリ内の役割とパーミッション、およびそれらを管理する方法についてさらに学ぶことができます。あるいは、このチュートリアルを終了して自分で試してみることもできます。</p><p>IdM Keyrockをご利用いただきありがとうございます!</p><a href='#' class='next-tour' data-current-tour='appsTour' data-next-tour='rolesTour'> > 役割とパーミッションのツアーに進む</a>"
       },
       "roles_tour": {
         "title01": "始めましょう!",
@@ -181,7 +181,7 @@
     "presentation": {
       "title": "ID管理",
       "subtitle01": "DIT-UPMによって開発されたFIWARE Identity Managerの実装へようこそ。",
-      "subtitle02": "このWebサービスでは、このサインインページや他のスタイル/レイアウトをカスタマイズできます。カスタマイズ方法を確認するには、カスタマイズに関するドキュメントをチェックしてください。",
+      "subtitle02": "このWebサービスでは、このサインイン・ページや他のスタイル/レイアウトをカスタマイズできます。カスタマイズ方法を確認するには、カスタマイズに関するドキュメントをチェックしてください。",
       "signup_btn": "サインアップ",
       "docs_btn": "ドキュメントの確認"
     },
@@ -195,7 +195,7 @@
     },
     "pass_request": {
       "title": "パスワードを忘れましたか?",
-      "content": "アカウントに関連付けたメールアドレスを入力すると、数分でパスワードをリセットする方法についての説明が記載されたメールが届きます。",
+      "content": "アカウントに関連付けたメール・アドレスを入力すると、数分でパスワードをリセットする方法についての説明が記載されたメールが届きます。",
       "label": "Eメール",
       "required_field": "このフィールドは必須です。",
       "send_btn": "送信",
@@ -234,7 +234,7 @@
   },
   "organizations": {
     "delete_avatar": {
-      "title": "ップロードした画像を削除",
+      "title": "アップロードした画像の削除",
       "content01": "この画像を削除してもよろしいですか?",
       "content02": "いつでも好きなときにアップロードできます。",
       "confirm_btn": "確認",
@@ -246,7 +246,7 @@
       "exit_btn": "脱退"
     },
     "manage_members": {
-      "title": "組織のメンバーを管理",
+      "title": "組織のメンバを管理",
       "header_title": "すべてのユーザ",
       "no_users": "ユーザが見つかりません。",
       "filter_use": "フィルタを使用します。最低2文字入力してください。",
@@ -257,7 +257,7 @@
       "save_btn": "保存",
       "cancel_btn": "中止"
     },
-    "編集": {
+    "edit": {
       "title01": "組織情報",
       "required_field": "この入力は必須です。",
       "label01": "名前",
@@ -280,7 +280,7 @@
       "create_btn": "作成",
       "tab01": "オーナー",
       "tab02": "メンバ",
-      "alert01": "あなたはどの組織の所有者でもありません。",
+      "alert01": "あなたはどの組織のオーナーでもありません。",
       "alert02": "あなたはどの組織のメンバでもありません。"
     },
     "create": {
@@ -309,7 +309,7 @@
       "label01": "現在のパスワード",
       "label02": "新しいパスワード",
       "label03": "新しいパスワードの確認",
-      "panel_title02": "メールアドレス変更",
+      "panel_title02": "メール・アドレス変更",
       "label04": "新しいEメール",
       "label05": "現在のパスワード",
       "panel_title03": "二要素認証の管理",
@@ -352,7 +352,7 @@
   },
   "users": {
     "delete_avatar": {
-      "title": "アップロードした画像を削除",
+      "title": "アップロードした画像の削除",
       "content01": "この画像を削除してもよろしいですか?",
       "content02": "いつでも好きなときにアップロードできます。",
       "confirm_btn": "確認",
@@ -379,7 +379,7 @@
     },
     "new_user": {
       "title": "登録",
-      "alert01": "二つのパスワードフィールドが一致しませんでした。",
+      "alert01": "二つのパスワード・フィールドが一致しませんでした。",
       "alert02": "Eメールは既に使われています。",
       "alert03": "Eメールが無効です。",
       "label01": "ユーザ名",
@@ -400,7 +400,7 @@
       "no_description": "説明がありません。",
       "title02": "Webサイト",
       "title03": "組織",
-      "alert01": "あなたはいかなる組織のメンバーでも所有者でもありません。",
+      "alert01": "あなたはいかなる組織のメンバでもオーナーでもありません。",
       "title04": "アプリケーション",
       "alert02": "あなたはどのアプリケーションでも認可されていません。"
     }
@@ -440,7 +440,7 @@
       "alert02": "ユーザが見つかりません。",
       "alert03": "フィルタを使用します。最低2文字入力してください。",
       "alert04": "無効な文字",
-      "alert05": "ユーザーが管理者として認可されています"
+      "alert05": "ユーザが管理者として認可されています"
     },
     "users": {
       "title": "ユーザ",
@@ -454,8 +454,8 @@
       "alert01": "ユーザが見つかりません。"
     },
     "create_user": {
-      "title": "ユーザを作成",
-      "alert01": "2つのパスワードフィールドが一致しませんでした。",
+      "title": "ユーザの作成",
+      "alert01": "2つのパスワード・フィールドが一致しませんでした。",
       "alert02": "Eメールは既に使われています。",
       "alert03": "Eメールが無効です。",
       "label01": "ユーザ名",
@@ -464,22 +464,23 @@
       "label04": "パスワード(再度)",
       "label05": "説明",
       "label06": "Webサイト",
-      "label07": "ユーザーにEメールを送信",
+      "label07": "ユーザにEメールを送信",
+
       "label08": "有効",
-      "popover_title": "Eメールを送信",
+      "popover_title": "Eメールの送信",
       "popover_body": "割り当てられたパスワードを含むメールをユーザに送信します。",
       "required_field": "これは必須フィールドです。",
       "create_btn": "作成"
     },
     "delete_user": {
-      "title": "ユーザを削除",
+      "title": "ユーザの削除",
       "content01": "これらのユーザを削除しようとしています: ",
       "content02": "よろしいですか？ユーザを削除することは、すべてのリソースを削除することを意味します。元に戻せません。",
       "confirm_input": "確認",
       "cancel_btn": "中止"
     },
     "edit_user": {
-      "title": "ユーザを編集",
+      "title": "ユーザの編集",
       "alert01": "Eメールは既に使われています。",
       "alert02": "Eメールが無効です。",
       "label01": "ユーザ名",
@@ -491,7 +492,7 @@
     },
     "reset_password": {
       "title": "パスワード変更",
-      "alert01": "2つのパスワードフィールドが一致しませんでした。",
+      "alert01": "2つのパスワード・フィールドが一致しませんでした。",
       "label01": "パスワード",
       "label02": "パスワード(再度)",
       "required_field": "これは必須フィールドです。",
@@ -526,7 +527,7 @@
       "alert05": "無効な文字です。",
       "alert06": "組織が追加されました。",
       "popover_title": "ロールの割り当て",
-      "popover_body": "組織のメンバや所有者に異なるロールを割り当てることができます。"
+      "popover_body": "組織のメンバやオーナーに異なるロールを割り当てることができます。"
     },
     "authorize_user": {
       "title": "アプリケーションでユーザを認可",
@@ -538,7 +539,7 @@
       "alert01": "ユーザが見つかりません。",
       "alert02": "ユーザがいません。",
       "alert03": "フィルタを使用します。最低2文字入力してください。",
-      "alert04": "一部のユーザーにはロールが割り当てられていません。今保存するとアプリケーションで認可されません。",
+      "alert04": "一部のユーザにはロールが割り当てられていません。今保存するとアプリケーションで認可されません。",
       "alert05": "無効な文字",
       "alert06": "ユーザが追加されました。"
     },
@@ -594,7 +595,7 @@
       "label03": "Url",
       "label04": "Callback Url",
       "label05": "サインアウトCallback Url",
-      "label06": "グラントタイプ",
+      "label06": "グラント・タイプ",
       "required_field": "これは必須フィールドです。",
       "alert01": "URLはすでに使われています。",
       "save_btn": "保存",
@@ -618,8 +619,8 @@
       "purchasing_li": "購入中",
       "authorized_li": "認可",
       "no_organizations_option": "組織がありません",
-      "content01": "どんなアプリケーションの提供者でもありません。",
-      "content02": "どんなアプリケーションの購入者でもありません。",
+      "content01": "どんなアプリケーションのProviderでもありません。",
+      "content02": "どんなアプリケーションのPurchaserでもありません。",
       "content03": "どのアプリケーションでも認可されていません。"
     },
     "manage_roles": {
@@ -631,7 +632,7 @@
       "save_btn": "保存"
     },
     "new": {
-      "title": "Application Information",
+      "title": "アプリケーション情報",
       "label01": "名前",
       "label02": "説明",
       "label03": "Url",
@@ -641,24 +642,24 @@
       "label07": "Provider",
       "label08": "eIDAS認証",
       "required_field": "これは必須フィールドです。",
-      "alert01": "Url is already used",
-      "popover01_body": "For security purposes, only OAuth requests coming from this URL will be accepted by KeyRock.",
-      "popover01_title": "Application URL",
-      "popover02_body": "The user agent will be redirected to this URL when OAuth flow is finished.",
-      "popover02_title": "Application Callback URL",
-      "popover03_body": "IdM Keyrock will redirect to this endpoint if the user agent has signed in through OAuth and it is needed to delete also de user session in Keyrock. If you don't configure this parameter, the user agent will be redirected to the endpoint specified before in url field.",
-      "popover03_title": "Application Sign Out Callback",
-      "popover04_body": "Select which grant types would accept the application in order to authorize users using Oauth 2.0 protocol. Visit <a href='http://fiware-idm.readthedocs.io/en/latest/api/#def-oauth2Auth' title='Oauth info'>Keyrock Docs</a> for more information.",
-      "popover04_title": "OAuth Grant Types",
-      "popover05_body": "Select who is going be the provider of the application: yourself or one of the organizations in which you are owner.",
-      "popover05_title": "Owner application",
-      "popover06_body": "Select if you also want to use eIDAS as authentication endpoint.",
-      "popover06_title": "Authentication Endpoint",
+      "alert01": "URLは既に使用されています。",
+      "popover01_body": "セキュリティ上の理由から、このURLからのOAuth要求のみがKeyRockによって受け入れられます。",
+      "popover01_title": "アプリケーションURL",
+      "popover02_body": "OAuthフローが終了すると、ユーザ・エージェントはこのURLにリダイレクトされます。",
+      "popover02_title": "アプリケーションCallback URL",
+      "popover03_body": "ユーザ・エージェントがOAuthを通じてサインインしていて、Keyrockのユーザ・セッションも削除する必要がある場合、Keyrockはこのエンドポイントにリダイレクトします。 このパラメータを設定しないと、ユーザ・エージェントはurlフィールドで以前に指定されたエンドポイントにリダイレクトされます。",
+      "popover03_title": "アプリケーション・サインアウトCallback",
+      "popover04_body": "Oauth 2.0プロトコルを使用してユーザを認証するために、どのグラント・タイプがアプリケーションを受け入れるかを選択します。詳細については、<a href='http://fiware-idm.readthedocs.io/en/latest/api/#def-oauth2Auth' title='Oauth info'>Keyrockのドキュメントを</a>をご覧ください。",
+      "popover04_title": "OAuthグラント・タイプ",
+      "popover05_body": "誰がアプリケーションのプロバイダになるかを選択します:あなた自身、またはあなたがオーナーである組織の1つ",
+      "popover05_title": "オーナー・アプリケーション",
+      "popover06_body": "認証エンドポイントとしてeIDASも使用する場合は選択します。",
+      "popover06_title": "認証Endpoint",
       "next_btn": "次へ"
     },
     "show": {
       "edit_span": "編集",
-      "manage_roles": "manage roles",
+      "manage_roles": "ロールの管理",
       "label01": "説明",
       "label02": "Url",
       "label03": "Callback Url",
@@ -667,51 +668,51 @@
       "label06": "センサのId",
       "label07": "組織名",
       "label08": "組織 NIF",
-      "label09": "Service Provider Type",
-      "label10": "Metadata URL",
+      "label09": "サービス・プロバイダ・タイプ",
+      "label10": "メタデータURL",
       "panel_title01": "OAuth2クレデンシャル",
       "panel_title02": "PEP Proxy",
       "panel_title03": "IoTセンサ",
-      "panel_title04": "Trusted applications",
+      "panel_title04": "信頼できるアプリケーション",
       "panel_title05": "認可されたユーザ",
       "panel_title06": "認可された組織",
       "panel_title07": "eIDAS認証",
       "panel_subtitle01": "Client ID",
       "panel_subtitle02": "Client Secret",
       "panel_subtitle03": "Tokenタイプ",
-      "permanent_option": "Permanent",
-      "popover01_body": "You will be asked for these credentials in the OAuth2 library you use for your application",
-      "popover01_title": "OAuth2 Credentials",
-      "popover02_body": "You can choose to create jwt as well as permanent tokens through scope parameter of OAuth2.",
+      "permanent_option": "永久",
+      "popover01_body": "アプリケーションに使用するOAuth2ライブラリでこれらのクレデンシャルを要求されます。",
+      "popover01_title": "OAuth2クレデンシャル",
+      "popover02_body": "OAuth2のscopeパラメータを使用して、jwtと永久トークンのどちらを作成するかを選択できます。",
       "popover02_title": "Tokenタイプ",
-      "popover03_body": "A PEP Proxy, along with an Authorization PDP, will let you add authentication and authorization security to your application. This way, you will be able also to manage specific permissions and policies to your resources, allowing different access levels to your users.",
+      "popover03_body": "PEP ProxyをAuthorization PDPと共に使用すると、アプリケーションに認証と認可のセキュリティを追加できます。このようにして、リソースに対する特定のパーミッションとポリシーを管理し、ユーザにさまざまなアクセスレベルを許可することもできます。",
       "popover03_title": "PEP Proxy",
-      "popover04_body": "If your application is related to IoT, sensors need to be registered here for them to be authenticated.",
-      "popover04_title": "IoT Sensors",
-      "register_pep_btn": "Register a new PEP Proxy",
+      "popover04_body": "アプリケーションがIoTに関連しているならば、センサが認証されるためにここに登録する必要があります。",
+      "popover04_title": "IoTセンサ",
+      "register_pep_btn": "新しいPEP Proxyを登録",
       "reset_pep_btn": "パスワードをリセット",
       "delete_pep_btn": "削除",
-      "register_iot_btn": "Register a new IoT Sensor",
+      "register_iot_btn": "新しいIoTセンサを登録",
       "reset_iot_btn": "パスワードをリセット",
       "delete_iot_btn": "削除",
       "placeholder_input": "フィルタ",
       "add_trusted_btn": "追加",
       "authorize_btn": "認可",
       "edit_btn": "編集",
-      "content01": "This application does not have any trusted application.",
+      "content01": "このアプリケーションは信頼されたアプリケーションを持っていません。",
       "content02": "ユーザが見つかりません。",
-      "content03": "This application does not have any authorized organizations."
+      "content03": "このアプリケーションは、認可された組織を持っていません。"
     },
     "step_create_avatar": {
-      "title": "Application Avatar",
-      "content01": "Select the part of the image you want to use as avatar.",
+      "title": "アプリケーション・アバター",
+      "content01": "アバターとして使用したい画像の部分を選択します。",
       "next_btn": "次へ"
     },
     "step_create_roles": {
       "title": "ロール管理",
       "subtitle01": "ロール",
       "subtitle02": "パーミッション",
-      "content01": "Select a role to see and manage its permissions",
+      "content01": "パーミッションを表示および管理するためのロールを選択してくださいい。",
       "required_field": "これは必須フィールドです。",
       "finish_btn": "Finish"
     }
@@ -725,8 +726,8 @@
     },
     "applications": {
       "iot_row": {
-        "label01": "SensorのID",
-        "label02": "Sensor のパスワード",
+        "label01": "センサのID",
+        "label02": "センサのパスワード",
         "reset_iot_btn": "パスワードをリセット",
         "delete_iot_btn": "削除"
       },
@@ -748,26 +749,26 @@
         "content03": "同意"
       },
       "change_email": {
-        "subject": "Account email change requested",
+        "subject": "アカウントのメール・アドレス変更リクエスト",
         "content01": "こんにちは",
-        "content02": "You have requested to change your email account to this one. Follow the link to finish the process.",
-        "content03": "Verify account"
+        "content02": "Eメールアカウントを変更するようリクエストしました。 リンクをたどって変更プロセスを終了します。",
+        "content03": "アカウントを確認します。"
       },
       "forgot_password": {
-        "subject": "Reset password instructions",
+        "subject": "パスワードの再設定手順",
         "content01": "こんにちは",
-        "content02": "Someone has requested a link to change your password. You can do this through the link below.",
-        "content03": "Change my password",
-        "content04": "If you didn't request this, please ignore this email.",
-        "content05": "Your password won't change until you access the link above and create a new one."
+        "content02": "誰かがパスワードを変更するためのリンクをリクエストしました。 あなたは以下のリンクを通して変更を行うことができます。",
+        "content03": "パスワードを変更する。",
+        "content04": "リクエストしていない場合は、このEメールを無視してください。",
+        "content05": "上記のリンクにアクセスして新しいパスワードを作成するまで、パスワードは変更されません。"
       },
       "user_info": {
         "subject": "Keyrockへようこそ",
-        "content01": "Welcome to Keyrock! An account has been created on keyrock with the following credentials: ",
-        "content02": "Email:",
-        "content03": "Password:",
-        "content04": "Username:",
-        "content05": "You can sign in here: "
+        "content01": "キーロックへようこそ! 次のクレデンシャルを使用して、keyrockにアカウントが作成されました: ",
+        "content02": "Eメール:",
+        "content03": "パスワード:",
+        "content04": "ユーザ名:",
+        "content05": "ここでサインインできます: "
       }
     },
     "organizations": {
@@ -787,23 +788,23 @@
     "login": {
       "title": "サインイン",
       "alert01": "セッション期限切れ",
-      "alert02": "Invalid username or password.",
+      "alert02": "ユーザ名かパスワードが無効です。",
       "label01": "Eメール",
       "label02": "パスワード",
       "required_field": "これは必須フィールドです。",
-      "checkbox": "remember me",
+      "checkbox": "サインイン情報を保存",
       "loginin_btn": "サインイン",
-      "eidas_loginin_btn": "Sign eID",
+      "eidas_loginin_btn": "eIDサインイン",
       "link01": "サインアップ",
       "link02": "パスワードを忘れた",
-      "link03": "Confirmation not recieved?"
+      "link03": "確認が届きませんか?"
     },
     "authorize": {
       "title": "認可",
-      "content01": "The application",
-      "content02": "will be able to:",
-      "content03": "Read your public information.",
-      "deny_btn": "Deny",
+      "content01": "アプリケーション",
+      "content02": "はできるようになります:",
+      "content03": "あなたの公開情報を読み取ります。",
+      "deny_btn": "拒否",
       "authorize_btn": "認可"
     }
   },
@@ -839,36 +840,36 @@
     "label14": "名前",
     "label15": "Url",
     "label16": "NIF",
-    "label17": "Service Provider Type",
+    "label17": "サービス・プロバイダ・タイプ",
     "private_option": "プライベート",
     "public_option": "パブリック",
     "required_field": "これは必須フィールドです。",
-    "alert01": "Invalid SP Type",
+    "alert01": "無効なSPタイプ",
     "edit_eidas": {
-      "title01": "eIDAS Authentication Details",
-      "title02": "eIDAS Requested Attributes",
-      "subtitle01": "Natural Person",
-      "subtitle02": "Legal Person",
-      "subtitle03": "Representative Legal Person",
-      "natural_label01": "Person Identifier",
-      "natural_label02": "Family Name",
-      "natural_label03": "First Name",
-      "natural_label04": "Date of Birth",
-      "natural_label05": "Birth Name",
-      "natural_label06": "Place Of Birth",
-      "natural_label07": "Current Address",
-      "natural_label08": "Gender",
-      "legal_label01": "Legal Person Identifier",
-      "legal_label02": "Legal Name",
-      "legal_label03": "Legal Person Address",
-      "legal_label04": "VAT Registration Number",
-      "legal_label05": "Tax Reference",
+      "title01": "eIDAS認証の詳細",
+      "title02": "eIDASが要求する属性",
+      "subtitle01": "個人(Natural Person)",
+      "subtitle02": "法人",
+      "subtitle03": "代表法人",
+      "natural_label01": "個人識別番号",
+      "natural_label02": "ファミリーネーム",
+      "natural_label03": "ファーストネーム",
+      "natural_label04": "生年月日",
+      "natural_label05": "出生名",
+      "natural_label06": "出生地",
+      "natural_label07": "現在の住所",
+      "natural_label08": "性別",
+      "legal_label01": "法人識別番号",
+      "legal_label02": "法人名",
+      "legal_label03": "法人の住所",
+      "legal_label04": "VAT登録番号",
+      "legal_label05": "課税情報",
       "legal_label06": "D-2012-17-EUIdentifier",
       "legal_label07": "LEI",
       "legal_label08": "EORI",
       "legal_label09": "SEED",
       "legal_label10": "SIC",
-      "representative_label01": "人の識別子",
+      "representative_label01": "個人識別番号",
       "representative_label02": "ファミリーネーム",
       "representative_label03": "ファーストネーム",
       "representative_label04": "生年月日",
@@ -889,7 +890,7 @@
       "update_btn": "更新"
     },
     "step_create_eidas_credentials": {
-      "title": "eIDAS Authentication Details", 
+      "title": "eIDAS認証の詳細", 
       "next_btn": "次へ"
     }
   }
