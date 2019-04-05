@@ -180,7 +180,7 @@
     },
     "presentation": {
       "title": "ID 管理",
-      "subtitle01": "DIT-UPM によって開発された FIWARE Identity Manager の実装へようこそ。",
+      "subtitle01": "DIT-UPM によって開発された FIWARE Identity Manager の実装へようこそ",
       "subtitle02": "この Web サービスでは、このサインイン・ページや他のスタイル/レイアウトをカスタマイズできます。カスタマイズ方法を確認するには、カスタマイズに関するドキュメントをチェックしてください。",
       "signup_btn": "サインアップ",
       "docs_btn": "ドキュメントの確認"
